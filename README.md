@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snikic01
 - 👀 I’m interested in: Java, C#, HTML, CSS, JS&&TS
-- 🌱 I’m currently learning: Angular
+- 🌱 I’m currently learning: React
 - 📫 You can reach me on Instagram: s.nikic.kir
 
 <!---
